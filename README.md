@@ -56,4 +56,5 @@ $\Pi = pD - rE + \mathbb{I}[r = r_{point}] \cdot pE$
       - $d_i, e_j > 0$
       - $D > E$
       - Consumers prefer cash refunds to point refunds
-      - Consumers have no dissatisfaction with the cash refund amount : $r_{exp} = p$
+      - Consumers have no dissatisfaction with the cash refund amount 
+      - Consumers expect a full refund : $r_{exp} = p$
