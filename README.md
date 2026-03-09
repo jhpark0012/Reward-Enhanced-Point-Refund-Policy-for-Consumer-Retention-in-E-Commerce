@@ -103,4 +103,4 @@ In the future, firms can provide consumers with the following refund options.
     
     - [Option 2] Point Refund (with additional bonus)
 
-This structure can improve both consumer satisfaction and firm profitability simultaneously.
+  This structure can improve both consumer satisfaction and firm profitability simultaneously.
