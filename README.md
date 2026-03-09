@@ -35,3 +35,7 @@ This policy is expected to create the following effects.
   - Improve long-term customer retention
 
 In practice, similar strategies have been implemented in the airline industry. For example, several airlines have offered 10–20% additional credits when customers choose vouchers instead of cash refunds.
+
+## Modeling
+
+D = d_0 - d_1 p + d_2 r - \mathbb{I}[r = r_{point}] \cdot d_3 (r_{exp} - r)
