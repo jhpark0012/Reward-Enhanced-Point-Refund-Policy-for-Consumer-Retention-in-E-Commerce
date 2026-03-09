@@ -47,7 +47,7 @@ $\Pi = pD - rE + \mathbb{I}[r = r_{point}] \cdot pE$
   - Notations
     - $D$ : Demand function
     - $E$ : Return request function
-    - - $\mathbb{I}$ : indicator function that takes value 1 if the condition is satisfied and 0 otherwise
+    - $\mathbb{I}$ : indicator function that takes value 1 if the condition is satisfied and 0 otherwise
     - $p$ : selling price
     - $r$ : refund price
     - $r_{exp}$ : consumer's expected refund amount
