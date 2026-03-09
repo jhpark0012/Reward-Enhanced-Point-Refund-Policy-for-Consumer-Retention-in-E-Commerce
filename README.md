@@ -80,7 +80,7 @@ $$
      - $r_{point}$ > $r_{cash}$
 
 3. If a point-based refund system is introduced, the number of refund requests is always higher.
-  - $E_{point}$ > $E_{cash}$
+    - $E_{point}$ > $E_{cash}$
 
 ## Results
 
@@ -99,15 +99,15 @@ The expected contributions of this study are as follows.
 
 1) Improved Customer Retention
 
-  The point-based refund policy can encourage consumer repurchases and reduce customer churn.
+  - The point-based refund policy can encourage consumer repurchases and reduce customer churn.
 
 2) Increased Firm Profitability
 
-  The point-based refund policy can help firms secure more stable demand in the long run.
+  - The point-based refund policy can help firms secure more stable demand in the long run.
 
-4) Flexible Refund Policy Design
+3) Flexible Refund Policy Design
 
-  In the future, firms can provide consumers with the following refund options.
+  - In the future, firms can provide consumers with the following refund options.
 
   - [Option 1] Cash Refund
   
