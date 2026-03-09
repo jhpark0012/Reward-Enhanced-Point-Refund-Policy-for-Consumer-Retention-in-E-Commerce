@@ -38,4 +38,4 @@ In practice, similar strategies have been implemented in the airline industry. F
 
 ## Modeling
 
-D = d_0 - d_1 p + d_2 r - \mathbb{I}[r = r_{point}] \cdot d_3 (r_{exp} - r)
+$D = d_0 - d_1 p + d_2 r - \mathbb{I}[r = r_{point}] \cdot d_3 (r_{exp} - r)$
