@@ -99,10 +99,8 @@ The point-based refund policy can help firms secure more stable demand in the lo
 3) Flexible Refund Policy Design
 In the future, firms can provide consumers with the following refund options.
 
-  [Option 1]
-  Cash Refund
+  - [Option 1] Cash Refund
   
-  [Option 2]
-  Point Refund (with additional bonus)
+  - [Option 2] Point Refund (with additional bonus)
 
 This structure can improve both consumer satisfaction and firm profitability simultaneously.
