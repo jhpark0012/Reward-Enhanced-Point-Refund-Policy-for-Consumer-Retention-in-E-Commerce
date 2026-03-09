@@ -59,4 +59,4 @@ $\Pi = pD - rE + \mathbb{I}[r = r_{point}] \cdot pE$
       - Consumers have no dissatisfaction with the cash refund amount 
       - Consumers expect a full refund : $r_{exp} = p$
    
-If $p = \frac{2 d_0 e_1 - d_2 e_0}{4 d_1 e_1 - d_2^2}$, $\Pi_{point} - \Pi_{cash} > 0$
+$If p = \frac{2 d_0 e_1 - d_2 e_0}{4 d_1 e_1 - d_2^2}, $\Pi_{point} - \Pi_{cash} > 0$
