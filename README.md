@@ -64,3 +64,45 @@ p = \frac{2 d_0 e_1 - d_2 e_0}{4 d_1 e_1 - d_2^2}
 \Rightarrow
 \Pi_{point} > \Pi_{cash}
 $$
+
+## Analysis
+1. If a point-based refund system is newly introduced, the refund amount must always be higher than the existing cash refund amount.
+     - $r_point > r_cash$
+
+2. If a point-based refund system is introduced, the number of refund requests is always higher.
+  - $E_point > E_cash$
+  - 
+Demand is not necessarily higher.
+
+
+## Results
+
+This study derives the following results.
+
+The point-based refund policy can generate higher profits than the cash refund policy.
+
+Under a point-based refund policy, firms must provide a higher refund value to consumers than with cash refunds.
+
+Consumers’ expected refund level and repurchase probability play important roles in determining the effectiveness of the policy.
+
+
+## Expected Outcomes
+
+The expected contributions of this study are as follows.
+
+1) Improved Customer Retention
+The point-based refund policy can encourage consumer repurchases and reduce customer churn.
+
+2) Increased Firm Profitability
+The point-based refund policy can help firms secure more stable demand in the long run.
+
+3) Flexible Refund Policy Design
+In the future, firms can provide consumers with the following refund options.
+
+  [Option 1]
+  Cash Refund
+  
+  [Option 2]
+  Point Refund (with additional bonus)
+
+This structure can improve both consumer satisfaction and firm profitability simultaneously.
