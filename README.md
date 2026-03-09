@@ -44,9 +44,9 @@ $E = e_0 + e_1 r - \mathbb{I}[r = r_{point}] \cdot e_2 (r_{exp} - r)$
 
 $\Pi = pD - rE + \mathbb{I}[r = r_{point}] \cdot pE$
 
-  - $p : \text{product price}$
-  - $r : \text{refund amount}$
-  - $r_{exp} : \text{consumer's expected refund amount}$
+  - $p : product price
+  - $r : refund amount
+  - $r_{exp} : consumer's expected refund amount
 
   - Conditions
       - $d_1 > d_2 > d_3$
@@ -55,5 +55,5 @@ $\Pi = pD - rE + \mathbb{I}[r = r_{point}] \cdot pE$
       - $e_2 > d_3$
       - $d_i, e_j > 0$
       - $D > E$
-      - $\text{Consumers prefer cash refunds to point refunds}$
-      - $\text{Consumers have no dissatisfaction with the cash refund amount}$ : $r_{exp} = p$
+      - Consumers prefer cash refunds to point refunds
+      - Consumers have no dissatisfaction with the cash refund amount : $r_{exp} = p$
