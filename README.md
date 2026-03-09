@@ -44,9 +44,18 @@ $E = e_0 + e_1 r - \mathbb{I}[r = r_{point}] \cdot e_2 (r_{exp} - r)$
 
 $\Pi = pD - rE + \mathbb{I}[r = r_{point}] \cdot pE$
 
-  - $p$ : product price
-  - $r$ : refund amount
-  - $r_{exp}$ : consumer's expected refund amount
+  - Notations
+    - $D$ : Demand function
+    - $E$ : Return request function
+    - - $\mathbb{I}$ : indicator function that takes value 1 if the condition is satisfied and 0 otherwise
+    - $p$ : selling price
+    - $r$ : refund price
+    - $r_{exp}$ : consumer's expected refund amount
+    - $d_0$ : potential demand
+    - $d_1$ : p sensitivity of demand
+    - $d_2$ : r sensitivity of demand
+    - $e_0$ : potential return request
+    - $e_1$ : r sensitivity of return request
 
   - Conditions
       - $d_1 > d_2 > d_3$
