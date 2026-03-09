@@ -39,3 +39,11 @@ In practice, similar strategies have been implemented in the airline industry. F
 ## Modeling
 
 $D = d_0 - d_1 p + d_2 r - \mathbb{I}[r = r_{point}] \cdot d_3 (r_{exp} - r)$
+
+$E = e_0 + e_1 r - \mathbb{I}[r = r_{point}] \cdot e_2 (r_{exp} - r)$
+
+$\Pi = pD - rE + \mathbb{I}[r = r_{point}] \cdot pE$
+
+  - $p : \text{product price}$
+  - $r : \text{refund amount}$
+  - $r_{exp} : \text{consumer's expected refund amount}$
