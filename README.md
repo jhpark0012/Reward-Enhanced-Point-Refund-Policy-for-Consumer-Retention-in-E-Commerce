@@ -91,16 +91,19 @@ Consumers’ expected refund level and repurchase probability play important rol
 The expected contributions of this study are as follows.
 
 1) Improved Customer Retention
-The point-based refund policy can encourage consumer repurchases and reduce customer churn.
+
+  The point-based refund policy can encourage consumer repurchases and reduce customer churn.
 
 2) Increased Firm Profitability
-The point-based refund policy can help firms secure more stable demand in the long run.
 
-3) Flexible Refund Policy Design
-In the future, firms can provide consumers with the following refund options.
+  The point-based refund policy can help firms secure more stable demand in the long run.
 
-    - [Option 1] Cash Refund
-    
-    - [Option 2] Point Refund (with additional bonus)
+4) Flexible Refund Policy Design
+
+  In the future, firms can provide consumers with the following refund options.
+
+  - [Option 1] Cash Refund
+  
+  - [Option 2] Point Refund (with additional bonus)
 
   This structure can improve both consumer satisfaction and firm profitability simultaneously.
