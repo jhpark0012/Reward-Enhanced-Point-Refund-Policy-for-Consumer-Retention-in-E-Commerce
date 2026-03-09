@@ -24,14 +24,14 @@ To address this issue, this study proposes a **Reward-Enhanced Point Refund Poli
 
 This policy is expected to create the following effects.
 
-Consumer perspective
+[Consumer perspective]
 
   - Consumers receive a higher perceived reward compared to a cash refund.
   
-  - Manufacturer perspective
+[Manufacturer perspective]
 
-Encourage repurchase through point usage
+  - Encourage repurchase through point usage
 
-Improve long-term customer retention
+  - Improve long-term customer retention
 
 In practice, similar strategies have been implemented in the airline industry. For example, several airlines have offered 10–20% additional credits when customers choose vouchers instead of cash refunds.
