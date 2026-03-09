@@ -67,22 +67,20 @@ $\Pi = pD - rE + \mathbb{I}[r = r_{point}] \cdot pE$
       - Consumers prefer cash refunds to point refunds
       - Consumers have no dissatisfaction with the cash refund amount 
       - Consumers expect a full refund : $r_{exp} = p$
-   
+
+## Analysis
+1. 
 $$
 p = \frac{2 d_0 e_1 - d_2 e_0}{4 d_1 e_1 - d_2^2}
 \Rightarrow
 \Pi_{point} > \Pi_{cash}
 $$
 
-## Analysis
-1. If a point-based refund system is newly introduced, the refund amount must always be higher than the existing cash refund amount.
-     - $r_point > r_cash$
+2. If a point-based refund system is newly introduced, the refund amount must always be higher than the existing cash refund amount.
+     - $r_point$ > $r_cash$
 
-2. If a point-based refund system is introduced, the number of refund requests is always higher.
-  - $E_point > E_cash$
-  - 
-Demand is not necessarily higher.
-
+3. If a point-based refund system is introduced, the number of refund requests is always higher.
+  - $E_point$ > $E_cash$
 
 ## Results
 
