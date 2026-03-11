@@ -71,7 +71,7 @@ $\Pi = pD - rE + \mathbb{I}[r = r_{point}] \cdot pE$
 ## Analysis
 1. 
 $$
-p = \frac{2 d_0 e_1 - d_2 e_0}{4 d_1 e_1 - d_2^2}
+p > \frac{2 d_0 e_1 - d_2 e_0}{4 d_1 e_1 - d_2^2}
 \Rightarrow
 \Pi_{point} > \Pi_{cash}
 $$
